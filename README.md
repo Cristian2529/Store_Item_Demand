@@ -55,8 +55,4 @@ Train models
 
 Evaluate performance
 
-Generate submission file
-
-
-
 
